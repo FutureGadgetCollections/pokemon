@@ -32,5 +32,9 @@ navigation:
 
 # Collections submenu
 collections:
-  - title: "Legos"
-    url: /collections/legos/
+  - title: "Sword and Shield"
+    url: /collections/sword-shield/
+  - title: "Scarlet and Violet"
+    url: /collections/scarlet-violet/
+  - title: "Mega Evolution"
+    url: /collections/mega-evolution/
