@@ -1,7 +1,7 @@
 ---
 title: "Scarlet and Violet Collection"
 layout: archive
-permalink: /collections/scarlet-violet/
+permalink: /collection/scarlet-violet/
 taxonomy: scarlet-violet
 author_profile: false
 ---

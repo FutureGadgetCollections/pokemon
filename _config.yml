@@ -351,6 +351,12 @@ defaults:
       type: posts
     values:
       permalink: /invoices/purchases/:title/
+  # _posts/collection - Custom permalink for collection posts
+  - scope:
+      path: "_posts/collection"
+      type: posts
+    values:
+      permalink: /collection/:categories/:title/
   # _purchases
   - scope:
       path: ""

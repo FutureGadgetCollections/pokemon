@@ -1,7 +1,7 @@
 ---
 title: "Mega Evolution Collection"
 layout: archive
-permalink: /collections/mega-evolution/
+permalink: /collection/mega-evolution/
 taxonomy: mega-evolution
 author_profile: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Sword and Shield Collection"
 layout: archive
-permalink: /collections/sword-shield/
+permalink: /collection/sword-shield/
 taxonomy: sword-shield
 author_profile: false
 ---

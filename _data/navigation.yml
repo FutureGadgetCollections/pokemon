@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Collection"
-    url: /collections/
+    url: /collection/
   - title: "Invoices"
     url: /invoices/
   - title: "Portfolio Summary"
@@ -31,8 +31,8 @@ navigation:
 # Collections submenu
 collections:
   - title: "Sword and Shield"
-    url: /collections/sword-shield/
+    url: /collection/sword-shield/
   - title: "Scarlet and Violet"
-    url: /collections/scarlet-violet/
+    url: /collection/scarlet-violet/
   - title: "Mega Evolution"
-    url: /collections/mega-evolution/
+    url: /collection/mega-evolution/
