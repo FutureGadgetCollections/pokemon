@@ -1,0 +1,72 @@
+Item ID,Set,SKU,Total Quantity,Average Price Paid,Market Value,Total Investment,Total Market Value
+151-COL1,151,Blooming Waters Collection Box,4,$100.00,$180.00,$400.00,$720.00
+151-BB,151,Booster Bundle,8,$63.50,$103.00,$508.00,$824.00
+SV9-BOX,Battle Partners,Booster Box,5,$68.50,$70.00,$342.50,$350.00
+BLK-ETB,Black Bolt and White Flare,BB ETB,1,$60.00,$84.00,$60.00,$84.00
+WHT-ETB,Black Bolt and White Flare,WF ETB,1,$60.00,$80.00,$60.00,$80.00
+BLK-LP,Black Bolt and White Flare,BB Loose Packs,2,$6.00,$8.75,$12.00,$17.50
+WHT-LP,Black Bolt and White Flare,WF Loose Packs,2,$6.00,$7.50,$12.00,$15.00
+BLK-BB,Black Bolt and White Flare,BB Booster Bundle,1,$29.00,$52.00,$29.00,$52.00
+WHT-BB,Black Bolt and White Flare,WF Booster Bundle,1,$29.00,$47.00,$29.00,$47.00
+BLK-VIC,Black Bolt and White Flare,Victini Collector,10,$36.00,$43.00,$360.00,$430.00
+BLK-PC-ETB,Black Bolt and White Flare,Pokemon Center ETB,1,$60.00,$165.00,$60.00,$165.00
+WHT-PC-ETB,Black Bolt and White Flare,Pokemon Center ETB,1,$60.00,$144.00,$60.00,$144.00
+DRI-SB,Destined Rivals,Sleeved Booster,16,$6.50,$7.50,$104.00,$120.00
+DRI-BLISTER1,Destined Rivals,1 Pack Blister,7,$6.80,$10.00,$47.60,$70.00
+DRI-COL1,Destined Rivals,Cynthia's Premium Collection,1,$50.00,$50.00,$50.00,$50.00
+DRI-BAT1,Destined Rivals,Steven's Battle Deck,2,$16.00,$27.50,$32.00,$55.00
+DRI-BAT2,Destined Rivals,Marnie's Battle Deck,1,$16.00,$39.00,$16.00,$39.00
+DRI-BB,Destined Rivals,Booster Bundle,1,$42.00,$51.00,$42.00,$51.00
+DRI-ETB,Destined Rivals,Elite Trainer Box,2,$60.00,$135.00,$120.00,$270.00
+DRI-BBAT,Destined Rivals,Build and Battle,1,$35.00,$43.00,$35.00,$43.00
+DRI-PC-ETB,Destined Rivals,Pokemon Center ETB,1,$212.00,$310.00,$212.00,$310.00
+SV9A-BOX,Heat Wave Arena,Booster Box,5,$72.50,$84.00,$362.50,$420.00
+JTG-BB,Journey Together,Booster Bundle,25,$33.00,$42.00,$825.00,"$1,050.00"
+JTG-BLISTER3,Journey Together,3 Pack Blister,2,$16.80,$26.00,$33.60,$52.00
+JTG-SB,Journey Together,Sleeved Booster,40,$5.70,$6.85,$228.00,$274.00
+JTG-BOX,Journey Together,Booster Box,15,$210.00,$234.00,"$3,150.00","$3,510.00"
+JTG-ETB,Journey Together,Elite Trainer Box,3,$53.00,$84.00,$159.00,$252.00
+JTG-PC-ETB,Journey Together,Pokemon Center ETB,5,$103.00,$140.00,$515.00,$700.00
+ME1-ETB1,Mega Evolutions,Gardevoir ETB,3,$84.00,$76.00,$252.00,$228.00
+ME1-ETB2,Mega Evolutions,Lucario ETB,3,$84.00,$85.00,$252.00,$255.00
+ME1-BB,Mega Evolutions,Booster Bundle,2,$45.00,$47.00,$90.00,$94.00
+ME1-SB,Mega Evolutions,Sleeved Booster,12,$5.80,$8.50,$69.60,$102.00
+ME1-COL1,Mega Evolutions,Latias Collection Box,1,$23.50,$30.00,$23.50,$30.00
+ME1-BLISTER3,Mega Evolutions,3 Pack Blister,6,$19.00,$25.00,$114.00,$150.00
+ME1-BAT1,Mega Evolutions,Mega Battle Deck Gengar,4,$18.00,$33.00,$72.00,$132.00
+ME1-BAT2,Mega Evolutions,Mega Battle Deck Diancie,4,$18.00,$15.00,$72.00,$60.00
+ME1-BOX,Mega Evolutions,Booster Box,14,$260.00,$230.00,"$3,640.00","$3,220.00"
+ME-COL2,Mega Evolutions,Mega Kangaskan,1,$23.00,$24.00,$23.00,$24.00
+ME-COL3,Mega Evolutions,Mega Venusaur,1,$42.00,$45.00,$42.00,$45.00
+ME1-PC-ETB1,Mega Evolutions,Lucario Pokemon Center ETB,1,$60.00,$165.00,$60.00,$165.00
+ME1-PC-ETB2,Mega Evolutions,Gardevoir Pokemon Center ETB,1,$60.00,$145.00,$60.00,$145.00
+OBF-BOX,Obsidian Flames,Booster Box,1,$227.00,$294.00,$227.00,$294.00
+OBF-LP,Obsidian Flames,Loose Pack,180,$6.00,$7.85,"$1,080.00","$1,413.00"
+PAL-BOX,Paldea Evolved,Booster Box,2,$275.00,$400.00,$550.00,$800.00
+PAF-GT-IT-COL,Paldean Fates,Great Tusk ex & Iron Treads EX Collection Box,4,$126.00,$130.00,$504.00,$520.00
+PAR-BOX,Paradox Rift,Booster Box,1,$212.00,$235.00,$212.00,$235.00
+ME2-ETB,Phantasmal Flames,ETB,1,$69.00,$76.00,$69.00,$76.00
+ME2-BB,Phantasmal Flames,Booster Bundle,3,$41.00,$44.00,$123.00,$132.00
+ME2-SB,Phantasmal Flames,Sleeved Booster,10,$6.50,$7.85,$65.00,$78.50
+ME2-BLISTER1,Phantasmal Flames,Single Blister,2,$7.00,$8.50,$14.00,$17.00
+PRE-COL1,Prismatic Evolutions,Premium Figure Collection,2,$100.00,$130.00,$200.00,$260.00
+PRE-COL2,Prismatic Evolutions,Poster Collection,2,$20.00,$30.00,$40.00,$60.00
+PRE-ETB,Prismatic Evolutions,ETB,12,$95.25,$124.00,"$1,143.00","$1,488.00"
+PRE-BB,Prismatic Evolutions,Booster Bundle,3,$52.00,$60.00,$156.00,$180.00
+PRE-SUP,Prismatic Evolutions,Surprise Box,4,$37.00,$45.00,$148.00,$180.00
+PRE-BINDER,Prismatic Evolutions,Binder Collection,1,$30.00,,$30.00,$0.00
+PRE-PC-ETB,Prismatic Evolutions,Pokemon Center ETB,3,$240.00,$320.00,$720.00,$960.00
+SV1-LP,Scarlet and Violet,Loose Pack,180,$5.00,$6.50,$900.00,"$1,170.00"
+SV1-BOX,Scarlet and Violet,Booster Box,14,$175.00,$231.00,"$2,450.00","$3,234.00"
+SV1-LP,Scarlet and Violet,Loose Pack,180,$5.00,$6.62,$900.00,"$1,191.60"
+SFA-BB,Shrouded Fable,Booster Bundle,2,$27.00,$40.00,$54.00,$80.00
+SFA-PC-ETB,Shrouded Fable,Pokemon Center ETB,3,$86.00,$120.00,$258.00,$360.00
+SCR-PC-ETB,Stellar Crown,Pokemon Center ETB,3,$128.00,$105.00,$384.00,$315.00
+SSP-ETB,Surging Sparks,ETB,5,$65.00,$70.00,$325.00,$350.00
+SSP-ETB,Surging Sparks,ETB,21,$71.50,$70.00,"$1,501.50","$1,470.00"
+SSP-BB,Surging Sparks,Booster Bundle,2,$33.00,$42.00,$66.00,$84.00
+SSP-SB,Surging Sparks,Sleeved Booster,6,$6.00,$7.85,$36.00,$47.10
+SSP-BOX,Surging Sparks,Booster Box,2,$220.00,$250.00,$440.00,$500.00
+SV10-BOX,The Glory of Team Rocket,Booster Box,5,$80.00,$105.00,$400.00,$525.00
+TWM-ETB,Twilight Masquerade,ETB,23,$68.25,$67.00,"$1,569.75","$1,541.00"
+VSTAR-BOX,Vstar Universe,Booster Box,1,$110.00,$144.00,$110.00,$144.00
